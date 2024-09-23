@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RachelW95
+- 👋 Hi, my name is Rachel.
 - 👀 I’m interested in learning coding, space photography, and chess.
 - 🌱 I’m currently learning html, css, and js.
 - 💞️ I’m looking to collaborate on making websites.
